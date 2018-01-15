@@ -1,0 +1,46 @@
+DELAY 5000
+GUI r
+DELAY 5000
+STRING notepad.exe
+ENTER
+DELAY 5000
+STRING                 #n    n#n  n#n  #n  n#n   n#    n
+ENTER
+STRING                 ####n######################## n#|
+ENTER
+STRING                 |###############################
+ENTER
+STRING                  ##############################|
+ENTER
+STRING                  ##############################
+ENTER
+STRING                 |#~~nnnnnn~~###~~nnnnn~~######|
+ENTER
+STRING                 ~n##########n~n#########n~####|
+ENTER
+STRING                 #############|############ ###
+ENTER
+STRING                |####~#######|####~########||#~
+ENTER
+STRING      nnn        ###########~~|############ #n#~n
+ENTER
+STRING     |###|        ~#####~nnn##n~#########~n###n##|
+ENTER
+STRING    |####       nnnn~~~|#######nn~~~~~nn###n~##~
+ENTER
+STRING      |###      |#######n~~~~~nn#############|
+ENTER
+STRING      |##|     |#########################~ ###
+ENTER
+STRING  nn#nn###nn#n  ~~#################~~~~ n| ##|
+ENTER
+STRING |##########~##    ~~~~~ nnnn nnnn ###~ ~ n##
+ENTER
+STRING|###########|n#        n ~~~~ ~~~~nnnn~~nn##
+ENTER
+STRING ~###########|~       |##nn~~~~~~~~nnn####~
+ENTER
+STRING   ~~########|          ~~~###############|
+ENTER
+STRING    |#######                 nnnnnn######
+ENTER

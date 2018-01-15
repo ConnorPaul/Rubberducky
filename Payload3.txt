@@ -1,0 +1,7 @@
+DELAY 5000
+GUI r
+DELAY 50
+STRING www.youtube.com/watch_popup?v=dQw4w9WgXcQ&loop=1
+ENTER
+DELAY 1000
+F11
